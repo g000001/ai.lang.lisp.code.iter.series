@@ -1,1 +1,5 @@
-This is the stub README.org for the "ai.lang.lisp.code.iter.series" project.
+* SERIES: Common Lisp looping macro package
+
+- November, 26 1991 version of Richard C. Waters' Series macro package.
+-- http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/code/iter/series/0.html
+

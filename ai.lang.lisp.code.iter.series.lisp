@@ -1,13 +1,4 @@
-;;;; ai.lang.lisp.code.iter.series.lisp
-
 (cl:in-package :ai.lang.lisp.code.iter.series.internal)
-;; (in-readtable :ai.lang.lisp.code.iter.series)
-
-;(def-suite ai.lang.lisp.code.iter.series)
-
-;(in-suite ai.lang.lisp.code.iter.series)
-
-;;; "ai.lang.lisp.code.iter.series" goes here. Hacks and glory await!
 
 ;It has been tested on the following Common Lisps to date (1/18/89).
 ;  Symbolics CL version 8.
